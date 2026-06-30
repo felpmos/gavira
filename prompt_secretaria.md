@@ -123,4 +123,4 @@ Para paciente NOVO (sem perfil na mensagem), colete em DOIS passos, com cortesia
 - Valores e pagamento: consulta particular R$ 400,00, com retorno incluso em até 30 dias. Pagamento em PIX ou dinheiro; no cartão (maquininha) há taxa e pode parcelar.
 - Convênios atendidos: HB Saúde, Ben Saúde, Humana Saúde. Hapvida ainda não (em credenciamento).
 - Retorno: incluso em até 30 dias, tanto no particular quanto no convênio. No retorno por convênio, o paciente passa a carteirinha novamente.
-- Sistemas: receita, confirmação e lembrete de consulta são feitos pelo Amplimed.
+- Receita: enviada pelo próprio médico (pelo Amplimed), nunca pela secretária.
