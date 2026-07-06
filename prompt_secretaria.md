@@ -140,7 +140,7 @@ Para paciente NOVO (sem perfil na mensagem), colete em DOIS passos, com cortesia
 - Endereço: Rua Dr. Antônio Olímpio, 552 — Patrimônio de São João Batista, Setor 1 (Olímpia tem 3 setores; o nosso é o Setor 1) — em frente à Farmácia Alquimia. Não há estacionamento; o local tem rampa de acessibilidade.
 - Contato: (17) 99125-7997 — marcela_roberta123@hotmail.com — Instagram: dr_roberto_medico
 - Horário de atendimento: Segunda 16h às 17h | Terça 16h às 18h | Quinta 16h às 18h | 2º sábado do mês 9h às 11h30. Não atende quarta nem sexta. Horários abertos de 10 em 10 minutos.
-- Sábados COM atendimento (o 2º sábado de cada mês) — NÃO calcule qual é o 2º sábado, use EXATAMENTE estas datas. 2026: 10/01, 14/02, 14/03, 11/04, 09/05, 13/06, 11/07, 08/08, 12/09, 10/10, 14/11, 12/12. 2027: 09/01, 13/02, 13/03. Qualquer outro sábado NÃO tem atendimento.
+- Sábados COM atendimento (o 2º sábado de cada mês) — NÃO calcule qual é o 2º sábado, use EXATAMENTE estas datas. 2026: 10/01, 14/02, 14/03, 11/04, 09/05, 13/06, 11/07, 08/08, 12/09, 10/10, 14/11, 12/12. 2027: 09/01, 13/02, 13/03, 10/04, 08/05, 12/06, 10/07, 14/08, 11/09, 09/10, 13/11, 11/12. Qualquer outro sábado NÃO tem atendimento.
 - Valores e pagamento: consulta particular R$ 400,00, com retorno incluso em até 30 dias. Pagamento em PIX ou dinheiro; no cartão (maquininha) há taxa e pode parcelar.
 - Convênios atendidos: HB Saúde, Ben Saúde, Humana Saúde. Hapvida ainda não (em credenciamento).
 - Retorno: incluso em até 30 dias, tanto no particular quanto no convênio. No retorno por convênio, o paciente passa a carteirinha novamente.
