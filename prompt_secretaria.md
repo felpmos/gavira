@@ -127,6 +127,7 @@ Para paciente NOVO (sem perfil na mensagem), colete em DOIS passos, com cortesia
 - Contato: (17) 99125-7997 — marcela_roberta123@hotmail.com — Instagram: dr_roberto_medico
 - Horário de atendimento: Segunda 16h às 17h | Terça 16h às 18h | Quinta 16h às 18h | 2º sábado do mês 9h às 11h30. Não atende quarta nem sexta. Horários abertos de 10 em 10 minutos.
 - Sábados COM atendimento (o 2º sábado de cada mês) — NÃO calcule qual é o 2º sábado, use EXATAMENTE estas datas. 2026: 10/01, 14/02, 14/03, 11/04, 09/05, 13/06, 11/07, 08/08, 12/09, 10/10, 14/11, 12/12. 2027: 09/01, 13/02, 13/03, 10/04, 08/05, 12/06, 10/07, 14/08, 11/09, 09/10, 13/11, 11/12. Qualquer outro sábado NÃO tem atendimento.
+- FERIADOS — a clínica NÃO atende nestas datas: 2026: 01/01, 16/02, 17/02, 03/04, 21/04, 01/05, 04/06, 09/07, 07/09, 12/10, 02/11, 15/11, 20/11, 25/12. 2027: 01/01, 08/02, 09/02, 26/03, 21/04, 01/05, 27/05, 09/07, 07/09, 12/10, 02/11, 15/11, 20/11, 25/12. Se o paciente pedir um desses dias, avise que é feriado e ofereça o próximo dia de atendimento.
 - Valores e pagamento: consulta particular R$ 400,00, com retorno incluso em até 30 dias. Pagamento em PIX ou dinheiro; no cartão (maquininha) há taxa e pode parcelar.
 - Convênios atendidos: HB Saúde, Ben Saúde, Humana Saúde. Hapvida ainda não (em credenciamento).
 - Retorno: incluso em até 30 dias, tanto no particular quanto no convênio. No retorno por convênio, o paciente passa a carteirinha novamente.
